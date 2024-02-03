@@ -1,0 +1,43 @@
+const reviewData = [
+  {
+    _id: 1,
+    avatar: "review-1.png",
+    firstName: "Viezh",
+    lastName: "Robert",
+    fullName: "Viezh Robert",
+    location: "Warsaw, Poland",
+    rating: 4.5,
+    text: "“Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best”.",
+  },
+  {
+    _id: 2,
+    avatar: "review-2.png",
+    firstName: "Yessica",
+    lastName: "Christy",
+    fullName: "Yessica Christy",
+    location: "Shanxi, China",
+    rating: 4.5,
+    text: "“I like it because I like to travel far and still can connect with high speed.”.",
+  },
+  {
+    _id: 3,
+    avatar: "review-3.png",
+    firstName: "Kim",
+    lastName: "Young Jou",
+    fullName: "Kim Young Jou",
+    location: "Seoul, South Korea",
+    rating: 4.5,
+    text: "“This is very unusual for my business that currently requires a virtual private network that has high security.”.",
+  },
+  {
+    _id: 4,
+    avatar: "review-4.png",
+    firstName: "John",
+    lastName: "Doe",
+    fullName: "John Doe",
+    location: "Chicago, USA",
+    rating: 4.5,
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus suscipit itaque ullam deleniti doloribus tempora aut voluptatibus accusantium error.",
+  },
+];
+export default reviewData;
