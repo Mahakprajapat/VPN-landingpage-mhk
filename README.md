@@ -1,5 +1,6 @@
 # link
-firebase Link : - vpnlandingpagemhk.web.app
+firebase Link :- vpnlandingpagemhk.web.app
+vpnlandingpagemhk.firebaseapp.com
 
 
 # Getting Started with Create React App
